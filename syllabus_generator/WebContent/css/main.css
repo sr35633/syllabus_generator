@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+.textbox {
+}
+body,td,th {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
+body {
+	margin-left: 15px;
+	margin-top: 15px;
+}
